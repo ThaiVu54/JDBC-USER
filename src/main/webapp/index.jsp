@@ -12,6 +12,6 @@
     <title>$Title$</title>
   </head>
   <body>
-  <c:redirect context="start" url="user/list.jsp"></c:redirect>
+  <c:redirect url="/users"/>
   </body>
 </html>
